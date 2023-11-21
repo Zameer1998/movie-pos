@@ -1,0 +1,23 @@
+.movie-item {
+  box-sizing: border-box;
+  width: 25%; 
+  padding: 10px;
+  float: left; 
+  text-align: center; 
+}
+
+.movie-title {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.movie-price {
+  font-size: 14px;
+  color: #888;
+}
+
+.movie-image {
+  max-width: 100%; 
+  height: auto; 
+  border-radius: 8px; 
+}
